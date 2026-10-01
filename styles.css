@@ -1,0 +1,21 @@
+.container  {
+    text-align: center;
+    margin: 30px auto;
+    padding: 250px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container {
+    text-align: justify;
+    margin-top: 10px auto;
+    padding: 10px auto;
+    font-size: 24px;
+}
+
+body {
+    background-image: url("brooke-lark-wMzx2nBdeng-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
