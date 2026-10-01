@@ -1,0 +1,49 @@
+body {
+    background-image: url("annie-spratt-yI3weKNBRTc-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ul {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h4 {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+ol {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
