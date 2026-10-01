@@ -1,0 +1,22 @@
+* {
+    color: blue;
+}
+
+div {
+    color: black;
+}
+
+.alert-text {
+    color: red;
+}
+
+#title {
+    background-color: aqua;
+}
+.alert.text {
+    color: red;
+}
+
+.alert#preview {
+    color: blue;
+}
